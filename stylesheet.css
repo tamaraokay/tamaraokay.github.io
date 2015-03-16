@@ -5,12 +5,11 @@ html {
     background-attachment: fixed;
 }
 header {
-    background-color: #222222;
-    color: #FFFFFF;
+    background-color: #FFFFFF;
+    color: #222222;
     padding: 20px;
     font-family: 'Lobster', cursive;
     text-align: center
-    width: 260px;
 }
 .introduction {
     background-color: #222222;
