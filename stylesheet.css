@@ -1,7 +1,7 @@
 html {
     background-color: black;
     background-image: url('http://www.neyralaw.com/wp-content/uploads/2012/07/tokyo-blue-background-4547.jpg');
-    background-size: cover;
+    background-size: 80px 60px;
     background-attachment: fixed;
 }
 header {
