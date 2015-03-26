@@ -10,6 +10,9 @@ header {
     background-color: #EBEBEB;
     border-color: #00DD00;
 }
+h2 {
+    font-family: 'Permanent Marker', cursive;
+}
 .introduction {
     background-color: #222222;
     padding: 30px;
