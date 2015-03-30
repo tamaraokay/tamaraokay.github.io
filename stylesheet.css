@@ -9,11 +9,12 @@ header {
     text-align: center;
     background-color: #EBEBEB;
     border-color: #00DD00;
+    font-size: 50px;
 }
 h2 {
  font-family: 'Unkempt', cursive;
  font-size: 48px;
- text-shadow: 4px 4px 4px #aaa;
+ 
 }
 .introduction {
     background-color: #222222;
