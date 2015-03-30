@@ -5,13 +5,13 @@ html {
 header {
     color: #000000;
     padding: 20px;
-    font-family: 'Lobster', cursive;
+    font-family: 'Crete Round', serif;
     text-align: center;
     background-color: #EBEBEB;
     border-color: #00DD00;
 }
 h2 {
-   font-family: 'Fira Mono', ;
+ font-family: 'Unkempt', cursive;
 }
 .introduction {
     background-color: #222222;
@@ -23,7 +23,7 @@ h2 {
     color: #FFFFFF;
     font-size: 14px;
     line-height: 130%;
-    border: 10px solid #1770FF;
+    border: 10px solid #000000;
     border-radius: 10px;
 }
 .gallery img {
