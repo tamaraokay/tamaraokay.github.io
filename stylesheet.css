@@ -59,7 +59,6 @@ h4{
     display: inline-block;
 }
 
-
 .main-navigation {
     background: #A8A8A8;
     border: 10px solid #000000;
@@ -94,11 +93,7 @@ h5{
     margin: 5px;
     font-size: 21;
 }
-section {
-    width: 100%;
-    max-width: 800px;
-    margin: 0 auto;
-}
+
 @media (max-width: 600px) {
 
     /* styles for mobile go here */
@@ -109,5 +104,27 @@ section {
     width: 100%;
 }
 }
+.aboutme {
+    background-color: #222222;
+    padding: 30px;
+    width: 700px;
+    margin: 0 auto;
+    margin-top: 30px;
 
-
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 130%;
+    border: 10px solid #000000;
+    border-radius: 10px;
+    text-align: center
+}
+.aboutme img {
+    height: 200px;
+    border-width: 5px;
+    border-color: #FFFFFF;
+    border-style: solid;
+    box-shadow: 3px 3px 5px 6px #000000;
+    margin: 5px;
+    font-size: 21;
+    
+}
