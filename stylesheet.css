@@ -94,6 +94,20 @@ h5{
     margin: 5px;
     font-size: 21;
 }
+section {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+@media (max-width: 600px) {
 
+    /* styles for mobile go here */
+section {
+    font-size: 20px;
+}
+    .gallery img {
+    width: 100%;
+}
+}
 
 
