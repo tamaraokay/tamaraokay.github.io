@@ -12,6 +12,8 @@ header {
 }
 h2 {
  font-family: 'Unkempt', cursive;
+ font-size: 48px;
+ text-shadow: 4px 4px 4px #aaa;
 }
 .introduction {
     background-color: #222222;
